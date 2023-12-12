@@ -1,6 +1,8 @@
 # Weather Forecast App 🌦️
 <p>  A sleek React-based weather forecast website delivering real-time updates on temperature, wind speed, and humidity. </p>
-# Getting Started with Create React App
+
+[Screenshot 2023-12-12 112704](https://github.com/hakish9637/Weather/assets/147521225/fe585cc8-2797-4291-b943-6cb9f17dfb8a)
+ting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
